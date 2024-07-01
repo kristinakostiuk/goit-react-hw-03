@@ -27,3 +27,9 @@
 .button:hover {
     background-color: #218838;
 }
+
+.errorMessage {
+  color: #dc3545;
+  font-size: 14px;
+  margin-top: -5px;
+}
